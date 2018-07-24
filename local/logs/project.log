@@ -1,0 +1,57 @@
+2018-07-19T02:38:57.158Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-19T02:38:57.162Z - normal: checking language setting...
+2018-07-19T02:38:57.163Z - normal: Language: zh
+2018-07-19T02:38:58.841Z - success: protocol editor-framework registered
+2018-07-19T02:38:58.841Z - success: protocol app registered
+2018-07-19T02:38:58.841Z - success: protocol theme registered
+2018-07-19T02:38:58.841Z - success: protocol packages registered
+2018-07-19T02:38:58.842Z - success: protocol unpack registerred
+2018-07-19T02:38:58.842Z - success: protocol disable-commonjs registerred
+2018-07-19T02:38:59.069Z - normal: connected!
+2018-07-19T02:38:59.073Z - normal: Check project C:\Users\Administrator\Desktop\exampleDemo\aircraft_war-master
+2018-07-19T02:38:59.078Z - normal: Initializing Cocos2d
+2018-07-19T02:38:59.305Z - normal: Initializing Asset Database
+2018-07-19T02:38:59.335Z - success: protocol uuid registerred
+2018-07-19T02:38:59.335Z - success: protocol db registerred
+2018-07-19T02:38:59.335Z - success: protocol thumbnail registerred
+2018-07-19T02:38:59.335Z - normal: Loading editor/builtin packages
+2018-07-19T02:38:59.352Z - success: anysdk loaded
+2018-07-19T02:38:59.463Z - success: assets loaded
+2018-07-19T02:38:59.466Z - success: builder loaded
+2018-07-19T02:38:59.468Z - success: cocos-analytics loaded
+2018-07-19T02:38:59.471Z - success: console loaded
+2018-07-19T02:38:59.512Z - success: fb-instant-games loaded
+2018-07-19T02:38:59.515Z - success: hierarchy loaded
+2018-07-19T02:38:59.517Z - success: inspector loaded
+2018-07-19T02:38:59.518Z - success: keystore loaded
+2018-07-19T02:38:59.520Z - success: node-library loaded
+2018-07-19T02:38:59.522Z - success: package-asset loaded
+2018-07-19T02:38:59.523Z - success: preferences loaded
+2018-07-19T02:38:59.526Z - success: project-exporter loaded
+2018-07-19T02:38:59.539Z - success: project-importer loaded
+2018-07-19T02:38:59.540Z - success: project-settings loaded
+2018-07-19T02:38:59.543Z - success: ui-kit loaded
+2018-07-19T02:38:59.544Z - success: ui-grid loaded
+2018-07-19T02:38:59.546Z - success: scene loaded
+2018-07-19T02:38:59.547Z - success: sprite-editor loaded
+2018-07-19T02:38:59.551Z - success: store loaded
+2018-07-19T02:38:59.554Z - success: timeline loaded
+2018-07-19T02:38:59.554Z - normal: Loading builtin packages
+2018-07-19T02:38:59.557Z - success: asset-db-debugger loaded
+2018-07-19T02:38:59.558Z - success: code-editor loaded
+2018-07-19T02:38:59.558Z - success: color-picker loaded
+2018-07-19T02:38:59.560Z - success: package-manager loaded
+2018-07-19T02:38:59.562Z - success: qqplay-adapter loaded
+2018-07-19T02:38:59.565Z - success: sdkbox loaded
+2018-07-19T02:38:59.568Z - success: tester loaded
+2018-07-19T02:38:59.569Z - success: ui-kit-preview-extra loaded
+2018-07-19T02:38:59.571Z - success: ui-kit-preview loaded
+2018-07-19T02:38:59.572Z - success: ui-tree loaded
+2018-07-19T02:38:59.572Z - success: weapp-adapter loaded
+2018-07-19T02:39:00.595Z - normal: Initializing project C:\Users\Administrator\Desktop\exampleDemo\aircraft_war-master
+2018-07-19T02:39:00.600Z - normal: Loading packages
+2018-07-19T02:39:00.606Z - normal: Watching packages
+2018-07-19T02:39:00.892Z - normal: Run Application
+2018-07-19T02:39:03.035Z - success: preview server running at http://localhost:7457
+2018-07-19T02:39:07.513Z - normal: 1.9.3
+2018-07-19T02:55:41.481Z - info: shutdown preview server
